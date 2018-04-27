@@ -1,0 +1,9 @@
+G:\大二下\数据结构\作业\StackApplication\StackApplication\bin\Debug\StackApplication.exe.config
+G:\大二下\数据结构\作业\StackApplication\StackApplication\bin\Debug\StackApplication.exe
+G:\大二下\数据结构\作业\StackApplication\StackApplication\bin\Debug\StackApplication.pdb
+G:\大二下\数据结构\作业\StackApplication\StackApplication\obj\Debug\StackApplication.csprojResolveAssemblyReference.cache
+G:\大二下\数据结构\作业\StackApplication\StackApplication\obj\Debug\StackApplication.exe
+G:\大二下\数据结构\作业\StackApplication\StackApplication\obj\Debug\StackApplication.pdb
+G:\Github\作业\StackApplication\StackApplication\bin\Debug\StackApplication.exe.config
+G:\Github\作业\StackApplication\StackApplication\obj\Debug\StackApplication.exe
+G:\Github\作业\StackApplication\StackApplication\obj\Debug\StackApplication.pdb

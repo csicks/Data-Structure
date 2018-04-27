@@ -1,0 +1,15 @@
+G:\VS\ZVisual Studio Program\DataStructure_Linear\DataStructure_Linear\bin\Debug\DataStructure_Linear.exe.config
+G:\VS\ZVisual Studio Program\DataStructure_Linear\DataStructure_Linear\bin\Debug\DataStructure_Linear.exe
+G:\VS\ZVisual Studio Program\DataStructure_Linear\DataStructure_Linear\bin\Debug\DataStructure_Linear.pdb
+G:\VS\ZVisual Studio Program\DataStructure_Linear\DataStructure_Linear\obj\Debug\DataStructure_Linear.csprojResolveAssemblyReference.cache
+G:\VS\ZVisual Studio Program\DataStructure_Linear\DataStructure_Linear\obj\Debug\DataStructure_Linear.exe
+G:\VS\ZVisual Studio Program\DataStructure_Linear\DataStructure_Linear\obj\Debug\DataStructure_Linear.pdb
+G:\大二下\数据结构\作业\DataStructure_Linear\DataStructure_Linear\bin\Debug\DataStructure_Linear.exe.config
+G:\大二下\数据结构\作业\DataStructure_Linear\DataStructure_Linear\obj\Debug\DataStructure_Linear.exe
+G:\大二下\数据结构\作业\DataStructure_Linear\DataStructure_Linear\obj\Debug\DataStructure_Linear.pdb
+G:\大二下\数据结构\作业\DataStructure_Linear\DataStructure_Linear\bin\Debug\DataStructure_Linear.exe
+G:\大二下\数据结构\作业\DataStructure_Linear\DataStructure_Linear\bin\Debug\DataStructure_Linear.pdb
+G:\大二下\数据结构\作业\DataStructure_Linear\DataStructure_Linear\obj\Debug\DataStructure_Linear.csprojResolveAssemblyReference.cache
+G:\Github\作业\DataStructure_Linear\DataStructure_Linear\bin\Debug\DataStructure_Linear.exe.config
+G:\Github\作业\DataStructure_Linear\DataStructure_Linear\obj\Debug\DataStructure_Linear.exe
+G:\Github\作业\DataStructure_Linear\DataStructure_Linear\obj\Debug\DataStructure_Linear.pdb

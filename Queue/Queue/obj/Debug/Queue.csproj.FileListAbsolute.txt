@@ -1,0 +1,9 @@
+G:\大二下\数据结构\作业\Queue\Queue\bin\Debug\Queue.exe.config
+G:\大二下\数据结构\作业\Queue\Queue\bin\Debug\Queue.exe
+G:\大二下\数据结构\作业\Queue\Queue\bin\Debug\Queue.pdb
+G:\大二下\数据结构\作业\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+G:\大二下\数据结构\作业\Queue\Queue\obj\Debug\Queue.exe
+G:\大二下\数据结构\作业\Queue\Queue\obj\Debug\Queue.pdb
+G:\Github\作业\Queue\Queue\bin\Debug\Queue.exe.config
+G:\Github\作业\Queue\Queue\obj\Debug\Queue.exe
+G:\Github\作业\Queue\Queue\obj\Debug\Queue.pdb

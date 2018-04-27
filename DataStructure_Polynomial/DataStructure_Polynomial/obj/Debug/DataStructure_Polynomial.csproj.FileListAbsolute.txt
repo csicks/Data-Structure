@@ -1,0 +1,9 @@
+G:\大二下\数据结构\作业\DataStructure_Polynomial\DataStructure_Polynomial\bin\Debug\DataStructure_Polynomial.exe.config
+G:\大二下\数据结构\作业\DataStructure_Polynomial\DataStructure_Polynomial\bin\Debug\DataStructure_Polynomial.exe
+G:\大二下\数据结构\作业\DataStructure_Polynomial\DataStructure_Polynomial\bin\Debug\DataStructure_Polynomial.pdb
+G:\大二下\数据结构\作业\DataStructure_Polynomial\DataStructure_Polynomial\obj\Debug\DataStructure_Polynomial.csprojResolveAssemblyReference.cache
+G:\大二下\数据结构\作业\DataStructure_Polynomial\DataStructure_Polynomial\obj\Debug\DataStructure_Polynomial.exe
+G:\大二下\数据结构\作业\DataStructure_Polynomial\DataStructure_Polynomial\obj\Debug\DataStructure_Polynomial.pdb
+G:\Github\作业\DataStructure_Polynomial\DataStructure_Polynomial\bin\Debug\DataStructure_Polynomial.exe.config
+G:\Github\作业\DataStructure_Polynomial\DataStructure_Polynomial\obj\Debug\DataStructure_Polynomial.exe
+G:\Github\作业\DataStructure_Polynomial\DataStructure_Polynomial\obj\Debug\DataStructure_Polynomial.pdb
