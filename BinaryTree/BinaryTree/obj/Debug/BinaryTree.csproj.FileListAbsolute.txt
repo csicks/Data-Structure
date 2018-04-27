@@ -1,0 +1,12 @@
+G:\大二下\数据结构\作业\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+G:\大二下\数据结构\作业\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+G:\大二下\数据结构\作业\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+G:\大二下\数据结构\作业\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+G:\大二下\数据结构\作业\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+G:\大二下\数据结构\作业\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+G:\Github\作业\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+G:\Github\作业\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+G:\Github\作业\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+G:\Github\作业\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+G:\Github\作业\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+G:\Github\作业\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
